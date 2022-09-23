@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
+    subtitle: Fresh. Better. Faster..
     actions:
       - type: Button
         label: Get Started
