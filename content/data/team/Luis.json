@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Luis",
+    "lastName": "Ruiz-Alomar",
+    "role": "CEO",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/Luis.png",
+        "altText": "Luis photo"
+    }
+}
