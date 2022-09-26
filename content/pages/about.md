@@ -24,8 +24,7 @@ sections:
       us friends, and what makes us a family and it what makes us a business.
 
 
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+      We believe there’s a better.
     styles:
       self:
         height: auto
@@ -86,7 +85,7 @@ sections:
       We’re a group of proffesional fisherman & friends, who love exploring the
       seas and sharing our experiences with the world.
     people:
-      - content/data/team/hilary-ouse.json
+      - content/data/team/Luis.json
       - content/data/team/dianne-ameter.json
       - content/data/team/desmond-eagle.json
       - content/data/team/hugh-saturation.json
