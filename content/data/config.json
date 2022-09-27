@@ -6,7 +6,7 @@
         "isSticky": true,
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
-        "title": "LARA-Enterprise New",
+        "title": "LARA-Enterprise",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:Luis@LARA-Enterprise.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
